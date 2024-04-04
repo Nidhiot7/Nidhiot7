@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @Nidhiot7(Nidhi Tomar)
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development.
+
 ## All Projects
 |     Mini Major Project    |                            Live Link                             |                           Github Link                            |
 |-------------------------- |----------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -14,7 +13,7 @@
 | TODO with DOM             | [Link Live](https://todo-with-dom.vercel.app/)                   | [Github Link](https://github.com/Nidhiot7/todo-with-dom)         |
 | TODO with Redux           | [Link Live](https://redux-todo-mqwo.vercel.app/)                 | [Github Link](https://github.com/Nidhiot7/redux-todo)            |
 | Random Joke Generator     | [Link Live](https://random-joke-generator-pi.vercel.app/)        | [Github Link](https://github.com/Nidhiot7/Random-Joke-Generator) |
-| Weather Widget            | [Link Live]()                                                    | [Github Link]()                                                  |
+| Weather Widget            | [Link Live](https://weather-app-blue-theta-18.vercel.app/)       | [Github Link](https://github.com/Nidhiot7/weather-app)           |
 |                           |                                                                  |                                                                  |
 
 
