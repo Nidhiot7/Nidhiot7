@@ -4,7 +4,7 @@
 |     Mini Major Project    |                            Live Link                             |                           Github Link                            |
 |-------------------------- |----------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Online Food Delivery      | [Live Link](https://vercel.com/nidhiot7s-projects/spotify-clone) | [Github Link](https://nidhiot7.github.io/Spotify-Clone/)         |
-| Spotify Clone             | [Live Link](https://vercel.com/nidhiot7s-projects/spotify-clone) | [Github Link](https://nidhiot7.github.io/Spotify-Clone/)         |
+| Spotify Clone             | [Live Link](https://spotify-clone-orpin-three.vercel.app/) | [Github Link](https://nidhiot7.github.io/Spotify-Clone/)         |
 | Amazon Clone              |                                                                  | [Github Link](https://github.com/Nidhiot7/Amazon-clone)          |
 | Facebook Clone            | [Link Live](https://social-book-gray.vercel.app/)                | [Github Link](https://github.com/Nidhiot7/Social-book)           |
 | Change Rectangle Color js | [Link Live](https://mouse-over.vercel.app/)                      | [Github Link](https://github.com/Nidhiot7/mouse-over)            |
